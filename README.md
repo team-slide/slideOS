@@ -1,4 +1,8 @@
+# If you came from a now out of date guide, tutorial, ROM link or a video, please instead ...
+
 [<img src="https://innioasis.app/start_here.png" alt="Innioasis Updater Screenshot"/>](https://innioasis.app/installguide.html)
+
+# to get started, the app will explain the process to you.
 [<img src="https://innioasis.app/mtkclient/gui/images/screenshot.jpg" alt="Innioasis Updater Screenshot"/>](https://innioasis.app/installguide.html)
 
 # Innioasis Updater
